@@ -1,3 +1,7 @@
+# API USED
+https://api.jikan.moe/v3/top/anime/1/bypopularity
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
