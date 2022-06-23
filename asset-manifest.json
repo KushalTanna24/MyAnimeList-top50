@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyAnimeList-top50.git/static/css/main.43d33644.css",
+    "main.js": "/MyAnimeList-top50.git/static/js/main.b751929a.js",
+    "index.html": "/MyAnimeList-top50.git/index.html",
+    "main.43d33644.css.map": "/MyAnimeList-top50.git/static/css/main.43d33644.css.map",
+    "main.b751929a.js.map": "/MyAnimeList-top50.git/static/js/main.b751929a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d33644.css",
+    "static/js/main.b751929a.js"
+  ]
+}
